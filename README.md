@@ -3,8 +3,8 @@
 ### LECTURES `001` - `025`
 
 - #### LECTURE 001: [Configuring IDE](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_001)
-- #### LECTURE 002: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_002)
-- #### LECTURE 003: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_003)
+- #### LECTURE 002: [Comments & DocStrings](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_002)
+- #### LECTURE 003: [Function: print](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_003)
 - #### LECTURE 004: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_004)
 - #### LECTURE 005: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_005)
 - #### LECTURE 006: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_006)
@@ -27,6 +27,7 @@
 - #### LECTURE 023: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_023)
 - #### LECTURE 024: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_024)
 - #### LECTURE 025: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_025)
+
 ___
 
 ### LECTURES `026` - `050`
@@ -56,6 +57,7 @@ ___
 - #### LECTURE 048: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_048)
 - #### LECTURE 049: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_049)
 - #### LECTURE 050: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_050)
+
 ___
 
 ### LECTURES `051` - `075`
@@ -85,6 +87,7 @@ ___
 - #### LECTURE 073: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_073)
 - #### LECTURE 074: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_074)
 - #### LECTURE 075: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_075)
+
 ___
 
 ### LECTURES `076` - `100`
@@ -114,6 +117,7 @@ ___
 - #### LECTURE 098: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_076-100/lecture_098)
 - #### LECTURE 099: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_076-100/lecture_099)
 - #### LECTURE 100: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_076-100/lecture_100)
+
 ___
 
 ### LECTURES `101` - `125`
@@ -143,6 +147,7 @@ ___
 - #### LECTURE 123: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_101-125/lecture_123)
 - #### LECTURE 124: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_101-125/lecture_124)
 - #### LECTURE 125: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_101-125/lecture_125)
+
 ___
 
 ### LECTURES `126` - `150`
@@ -172,6 +177,7 @@ ___
 - #### LECTURE 148: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_126-150/lecture_148)
 - #### LECTURE 149: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_126-150/lecture_149)
 - #### LECTURE 150: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_126-150/lecture_150)
+
 ___
 
 ### LECTURES `151` - `175`
@@ -201,6 +207,7 @@ ___
 - #### LECTURE 173: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_151-175/lecture_173)
 - #### LECTURE 174: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_151-175/lecture_174)
 - #### LECTURE 175: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_151-175/lecture_175)
+
 ___
 
 ### LECTURES `176` - `200`
@@ -230,6 +237,7 @@ ___
 - #### LECTURE 198: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_176-200/lecture_198)
 - #### LECTURE 199: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_176-200/lecture_199)
 - #### LECTURE 200: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_176-200/lecture_200)
+
 ___
 
 ### LECTURES `201` - `225`
@@ -259,6 +267,7 @@ ___
 - #### LECTURE 223: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_201-225/lecture_223)
 - #### LECTURE 224: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_201-225/lecture_224)
 - #### LECTURE 225: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_201-225/lecture_225)
+
 ___
 
 ### LECTURES `226` - `250`
