@@ -2,7 +2,7 @@
 
 ### LECTURES `001` - `025`
 
-- #### LECTURE 001: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_001)
+- #### LECTURE 001: [Configuring IDE](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_001)
 - #### LECTURE 002: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_002)
 - #### LECTURE 003: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_003)
 - #### LECTURE 004: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_001-025/lecture_004)
