@@ -1,4 +1,5 @@
 print(' EXERCISE 1 '.center(50, '='))
+
 name = 'Paula'
 surname = 'Rodrigues'
 age = 27
