@@ -3,11 +3,11 @@
 Given the following variables:
 
 ```python
-number1 = input("Number 1: ")
-number2 = input("Number 2: ")
+first = input("First: ")
+last = input("Last: ")
 ```
 
 Use the `if/elif/else` statements to determine the appropriate outcome:
-> number1=10 is greater than number2=9<br />
-> number2=10 is greater than number1=9<br />
-> number1=10 is equal to number2=10
+> first='10' is greater than last='9'<br />
+> last='10' is greater than first='9'<br />
+> first='10' is equal to last='10'

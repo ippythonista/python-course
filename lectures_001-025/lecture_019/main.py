@@ -1,11 +1,11 @@
 print(' EXERCISE 3'.center(50, '='))
 
-number1 = input("Number 1: ")
-number2 = input("Number 2: ")
+first = input("First: ")
+last = input("Last: ")
 
-if number1 > number2:
-    print(f'{number1=} is greater than {number2=}')
-elif number2 > number1:
-    print(f'{number2=} is greater than {number1=}')
+if first > last:
+    print(f'{first=} is greater than {last=}')
+elif last > first:
+    print(f'{last=} is greater than {first=}')
 else:
-    print(f'{number1=} is equal to {number2=}')
+    print(f'{first=} is equal to {last=}')
