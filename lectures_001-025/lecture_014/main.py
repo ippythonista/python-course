@@ -1,4 +1,4 @@
-print(' F-STRING '.center(50, '='))
+print(' F-STRING: BASICS '.center(50, '='))
 
 name = 'Paula'
 height = 1.62
