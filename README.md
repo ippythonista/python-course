@@ -1,4 +1,6 @@
-# Python Course
+# PYTHON COURSE
+
+## LECTURES
 
 ### LECTURES `001` - `025`
 
@@ -34,7 +36,7 @@ ___
 
 - #### LECTURE 026: [String Slicing](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_026)
 - #### LECTURE 027: [Exercise 4](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_027)
-- #### LECTURE 028: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_028)
+- #### LECTURE 028: [Exception Handling: try/catch](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_028)
 - #### LECTURE 029: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_029)
 - #### LECTURE 030: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_030)
 - #### LECTURE 031: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_031)
