@@ -1,5 +1,8 @@
-print(' EXERCISE 10 '.center(50, '='))
+# Exercise 10:
 
+Given the program:
+
+```python
 text = '''
 Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -22,16 +25,6 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 '''.lower()
 abc = 'abcdefghijklmnopqrstuvwxyz'
-size = len(abc)
+```
 
-i = 0
-max_letter = None
-max_count = 0
-while i < size:
-    letter = abc[i]
-    count = text.count(letter)
-    if count > max_count:
-        max_count = count
-        max_letter = letter
-    i += 1
-print(max_letter, max_count)
+Write code to find out with letter occurs the most.
