@@ -51,14 +51,14 @@ ___
 - #### LECTURE 040: [Exercise 9](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_040)
 - #### LECTURE 041: [Loops: while (Part 3)](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_041)
 - #### LECTURE 042: [Exercise 10](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_042)
-- #### LECTURE 043: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_043)
-- #### LECTURE 044: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_044)
-- #### LECTURE 045: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_045)
-- #### LECTURE 046: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_046)
-- #### LECTURE 047: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_047)
-- #### LECTURE 048: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_048)
-- #### LECTURE 049: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_049)
-- #### LECTURE 050: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_050)
+- #### LECTURE 043: [Loops: for](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_043)
+- #### LECTURE 044: [Exercise 11](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_044)
+- #### LECTURE 045: [Data Type: list](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_045)
+- #### LECTURE 046: [Exercise 12](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_046)
+- #### LECTURE 047: [Unpacking](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_047)
+- #### LECTURE 048: [Data Type: tuple](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_048)
+- #### LECTURE 049: [Function: enumerate](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_049)
+- #### LECTURE 050: [Exercise 13](https://github.com/ippythonista/python-course/tree/main/lectures_026-050/lecture_050)
 
 ___
 
