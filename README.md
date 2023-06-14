@@ -71,7 +71,7 @@ ___
 - #### LECTURE 055: [Unpacking (Part 2)](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_055)
 - #### LECTURE 056: [Ternary Operator](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_056)
 - #### LECTURE 057: [Exercise 14](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_057)
-- #### LECTURE 058: [](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_058)
+- #### LECTURE 058: [Exercise 15](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_058)
 - #### LECTURE 059: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_059)
 - #### LECTURE 060: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_060)
 - #### LECTURE 061: [💾](https://github.com/ippythonista/python-course/tree/main/lectures_051-075/lecture_061)
